@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+.col{
+    display:grid;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    grid-template-rows: 120px;
+    grid-template-columns: 100px;
+    height: 100%;
+    
+}
+.row{
+    height: 100px; 
+}
+
+
+.col{
+    border-radius: 30px;
+    font-size: 2em;
+}
